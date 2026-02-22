@@ -1,57 +1,26 @@
-# 👋 Olá, eu sou [Daniell]
+### Olá! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-Sou desenvolvedor de software graduado em Ciência da Computação pela Faculdade Internacional da Paraíba (FPB), com foco em desenvolvimento backend, aplicações web e Inteligência Artificial.
+Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor de software graduado em Ciência da Computação pela Faculdade Internacional da Paraíba (FPB), com foco em desenvolvimento backend, aplicações web e Inteligência Artificial.
 
-Gosto de transformar ideias em soluções funcionais, bem estruturadas e escaláveis, sempre buscando unir boas práticas de engenharia com inovação.
+**Atualmente estou focado em:**
+- Python e desenvolvimento backend
+- APIs REST e integração de sistemas
+- Aplicações com LLMs, RAG e Agentes de IA
+- Automação e soluções inteligentes
+- Projetos práticos com foco em performance e escalabilidade
+  
+---
+
+**Some stuff I built:**
+- [Assistente virtual](https://github.com/daniellwendyson/assistente-virtual) -  Um Assistente Visual Inteligente que permite fazer perguntas em linguagem natural sobre imagens enviadas.
+- [Classificação e agrupamento](https://github.com/daniellwendyson/classificacao-e-agrupamento) -  Projeto que aplica técnicas de Machine Learning para realizar classificação e agrupamento de dados, explorando padrões e auxiliando na análise e organização de informações.
+- [JiuLog](https://github.com/daniellwendyson/JiuLOG) - JiuLOG é um sistema completo de gestão para academias de Jiu-Jitsu, oferecendo controle de presenças, gerenciamento de alunos, professores e academias, com interface responsiva e moderna.
+- [ConectAção](https://github.com/daniellwendyson/conecta-acao) - Sistema web que conecta doadores a ONGs. 
 
 ---
 
-## 🚀 Atualmente estou focado em:
+**Curiosidades:**
 
-- Especialização em Inteligência Artificial Generativa (LLMs, RAG, Fine-Tuning e Agentes de IA)
-- Desenvolvimento de aplicações backend e APIs
-- Integração de modelos de IA em sistemas reais
-- Aprimoramento em arquitetura de software e boas práticas
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-- Python
-- Java
-- JavaScript
-- PHP
-
-### Web
-- HTML
-- CSS
-- APIs REST
-- Desenvolvimento Backend
-
-### Frameworks & Bibliotecas
-- Flask
-- FastAPI
-- Node.js
-- React (básico/intermediário)
-
-### Dados & Infra
-- SQL / NoSQL
-- Git / GitHub
-- Docker (básico)
-- Linux
-
-### Inteligência Artificial
-- Large Language Models (LLMs)
-- RAG (Retrieval-Augmented Generation)
-- Fine-Tuning
-- Agentes de IA
-- Prompt Engineering
-
----
-
-## 📫 Como me encontrar
-
-- 💼 LinkedIn: https://www.linkedin.com/in/daniellwendyson
-
----
+* Faixa azul de Jiu-Jitsu
+* NewJeans 🤗
+* **Hobbies:** dota 2 & academia 
