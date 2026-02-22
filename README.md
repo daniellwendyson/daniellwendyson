@@ -11,7 +11,7 @@ Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor de
   
 ---
 
-**Some stuff I built:**
+**Algumas coisas que construí:**
 - [Assistente virtual](https://github.com/daniellwendyson/assistente-virtual) -  Um Assistente Visual Inteligente que permite fazer perguntas em linguagem natural sobre imagens enviadas.
 - [Classificação e agrupamento](https://github.com/daniellwendyson/classificacao-e-agrupamento) -  Projeto que aplica técnicas de Machine Learning para realizar classificação e agrupamento de dados, explorando padrões e auxiliando na análise e organização de informações.
 - [JiuLog](https://github.com/daniellwendyson/JiuLOG) - JiuLOG é um sistema completo de gestão para academias de Jiu-Jitsu, oferecendo controle de presenças, gerenciamento de alunos, professores e academias, com interface responsiva e moderna.
