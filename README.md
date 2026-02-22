@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Daniell]
 
-<!--
-**daniellwendyson/daniellwendyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software graduado em Ciência da Computação pela Faculdade Internacional da Paraíba (FPB), com foco em desenvolvimento backend, aplicações web e Inteligência Artificial.
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em soluções funcionais, bem estruturadas e escaláveis, sempre buscando unir boas práticas de engenharia com inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estou focado em:
+
+- Especialização em Inteligência Artificial Generativa (LLMs, RAG, Fine-Tuning e Agentes de IA)
+- Desenvolvimento de aplicações backend e APIs
+- Integração de modelos de IA em sistemas reais
+- Aprimoramento em arquitetura de software e boas práticas
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+- Python
+- Java
+- JavaScript
+- PHP
+
+### Web
+- HTML
+- CSS
+- APIs REST
+- Desenvolvimento Backend
+
+### Frameworks & Bibliotecas
+- Flask
+- FastAPI
+- Node.js
+- React (básico/intermediário)
+
+### Dados & Infra
+- SQL / NoSQL
+- Git / GitHub
+- Docker (básico)
+- Linux
+
+### Inteligência Artificial
+- Large Language Models (LLMs)
+- RAG (Retrieval-Augmented Generation)
+- Fine-Tuning
+- Agentes de IA
+- Prompt Engineering
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/daniellwendyson
+
+---
