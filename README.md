@@ -1,21 +1,28 @@
 ### Olá! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor de software graduado em Ciência da Computação pela Faculdade Internacional da Paraíba (FPB), com foco em desenvolvimento backend, aplicações web e Inteligência Artificial.
+Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor full-stack graduado em Ciência da Computação pela Faculdade Internacional da Paraíba (FPB), com foco em atuação na construção de aplicações web modernas, escaláveis e na integração de soluções com Inteligência Artificial.
 
 **Atualmente estou focado em:**
-- Python e desenvolvimento backend
-- APIs REST e integração de sistemas
-- Aplicações com LLMs, RAG e Agentes de IA
-- Automação e soluções inteligentes
-- Projetos práticos com foco em performance e escalabilidade
+* **Desenvolvimento Full Stack:** Criando interfaces responsivas com React/Next.js e APIs robustas com Node.js e PHP.
+* **Inteligência Artificial:** Orquestração de LLMs, pipelines RAG e Agentes de IA aplicados a produtos reais.
+* **Boas Práticas & Arquitetura:** Modelagem de dados (SQL), TDD, CI/CD e ecossistema Docker.
+* **Ecossistema Web:** Foco constante em performance, código limpo e arquiteturas escaláveis.
+
+---
+
+### 🚀 Projetos em Destaque
   
 ---
 
 **Algumas coisas que construí:**
-- [Assistente virtual](https://github.com/daniellwendyson/assistente-virtual) -  Um Assistente Visual Inteligente que permite fazer perguntas em linguagem natural sobre imagens enviadas.
-- [Classificação e agrupamento](https://github.com/daniellwendyson/classificacao-e-agrupamento) -  Projeto que aplica técnicas de Machine Learning para realizar classificação e agrupamento de dados, explorando padrões e auxiliando na análise e organização de informações.
-- [JiuLog](https://github.com/daniellwendyson/JiuLOG) - JiuLOG é um sistema completo de gestão para academias de Jiu-Jitsu, oferecendo controle de presenças, gerenciamento de alunos, professores e academias, com interface responsiva e moderna.
-- [ConectAção](https://github.com/daniellwendyson/conecta-acao) - Sistema web que conecta doadores a ONGs. 
+* 📰 **[Clone TabNews](https://github.com/daniellwendyson/clone-tabnews)**
+  Implementação full stack do portal TabNews, desenvolvido como projeto principal do curso.dev. Construído com Next.js e Node.js, banco de dados PostgreSQL com Migrations, ambiente Docker e desenvolvimento guiado por TDD.
+  
+* 🥋 **[JiuLOG](https://github.com/daniellwendyson/JiuLOG)**
+  Sistema web completo de gestão para academias de Jiu-Jitsu. Controla presenças (check-ins), graduações e a administração de alunos e professores. Desenvolvido com HTML/CSS/JS no frontend, integrado a uma API RESTful em PHP e banco de dados MySQL.
+  
+* 🎓 **[MentorAI](https://github.com/daniellwendyson/studymate-ai)**
+  Plataforma educacional interativa que utiliza Python, Streamlit e orquestração de IA (CrewAI + LangChain) para explicar conceitos de PDFs, avaliar o aprendizado e motivar os alunos.
 
 ---
 
