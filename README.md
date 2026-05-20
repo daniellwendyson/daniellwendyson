@@ -16,13 +16,13 @@ Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor fu
 
 **Algumas coisas que construí:**
 * 📰 **[Clone TabNews](https://github.com/daniellwendyson/clone-tabnews)**
-  Implementação full stack do portal TabNews, desenvolvido como projeto principal do curso.dev. Construído com Next.js e Node.js, banco de dados PostgreSQL com Migrations, ambiente Docker e desenvolvimento guiado por TDD.
+  - Implementação full stack do portal TabNews, desenvolvido como projeto principal do curso.dev. Construído com Next.js e Node.js, banco de dados PostgreSQL com Migrations, ambiente Docker e desenvolvimento guiado por TDD.
   
 * 🥋 **[JiuLOG](https://github.com/daniellwendyson/JiuLOG)**
-  Sistema web completo de gestão para academias de Jiu-Jitsu. Controla presenças (check-ins), graduações e a administração de alunos e professores. Desenvolvido com HTML/CSS/JS no frontend, integrado a uma API RESTful em PHP e banco de dados MySQL.
+  - Sistema web completo de gestão para academias de Jiu-Jitsu. Controla presenças (check-ins), graduações e a administração de alunos e professores. Desenvolvido com HTML/CSS/JS no frontend, integrado a uma API RESTful em PHP e banco de dados MySQL.
   
 * 🎓 **[MentorAI](https://github.com/daniellwendyson/studymate-ai)**
-  Plataforma educacional interativa que utiliza Python, Streamlit e orquestração de IA (CrewAI + LangChain) para explicar conceitos de PDFs, avaliar o aprendizado e motivar os alunos.
+  - Plataforma educacional interativa que utiliza Python, Streamlit e orquestração de IA (CrewAI + LangChain) para explicar conceitos de PDFs, avaliar o aprendizado e motivar os alunos.
 
 ---
 
