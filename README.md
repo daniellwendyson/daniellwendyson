@@ -8,6 +8,7 @@ Eu sou [**Daniell**](https://youtube.com/@daniellwendyson), sou desenvolvedor fu
 * **Boas Práticas & Arquitetura:** Modelagem de dados (SQL), TDD, CI/CD e ecossistema Docker.
 * **Ecossistema Web:** Foco constante em performance, código limpo e arquiteturas escaláveis.
 
+---
 
 **Algumas coisas que construí:**
 * 📰 **[Clone TabNews](https://github.com/daniellwendyson/clone-tabnews)**
